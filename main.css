@@ -1,0 +1,24 @@
+nav{background-image: linear-gradient(
+    45deg,
+    hsl(240deg 1% 13%) 0%,
+    hsl(269deg 11% 21%) 11%,
+    hsl(305deg 15% 27%) 22%,
+    hsl(329deg 24% 36%) 33%,
+    hsl(345deg 29% 45%) 44%,
+    hsl(360deg 36% 54%) 56%,
+    hsl(14deg 54% 57%) 67%,
+    hsl(27deg 68% 58%) 78%,
+    hsl(39deg 72% 57%) 89%,
+    hsl(55deg 66% 55%) 100%
+  );}
+  img{
+   
+    transform: translate(0%,-25%);
+    height: 150px;
+   
+  }
+  .item{height: 300px;}
+  .modalimg{
+    height: 200px;
+    border-radius: 50%;
+  }
